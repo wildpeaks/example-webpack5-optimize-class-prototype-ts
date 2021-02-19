@@ -1,0 +1,11 @@
+/*
+/*/
+
+!/LICENSE
+!/README.md
+!/.gitignore
+!/src
+!/dist
+!/package.json
+!/tsconfig.json
+!/webpack.conf.js
